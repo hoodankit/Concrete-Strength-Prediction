@@ -1,0 +1,21 @@
+This project predicts the comprehensive strength of concrete on basis of constituents added to it.
+
+Data Source :- https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
+
+Problem Statement:-
+Concrete is the most important material in civil engineering.The concrete compressive strength is a highly nonlinear function of age and ingredients. These ingredients include cement, blast furnace slag, fly ash,
+water, superplasticizer, coarse aggregate, and fine aggregate.
+Data is in raw form(not scaled). Build a predictive model to predict comprehensive strength of concrete as per quantity of ingredients added to it.
+
+Data Description:-
+Name -- Data Type -- Measurement -- Description
+
+Cement (component 1) -- quantitative -- kg in a m3 mixture -- Input Variable
+Blast Furnace Slag (component 2) -- quantitative -- kg in a m3 mixture -- Input Variable
+Fly Ash (component 3) -- quantitative -- kg in a m3 mixture -- Input Variable
+Water (component 4) -- quantitative -- kg in a m3 mixture -- Input Variable
+Superplasticizer (component 5) -- quantitative -- kg in a m3 mixture -- Input Variable
+Coarse Aggregate (component 6) -- quantitative -- kg in a m3 mixture -- Input Variable
+Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Variable
+Age -- quantitative -- Day (1~365) -- Input Variable
+Concrete compressive strength -- quantitative -- MPa -- Output Variable
