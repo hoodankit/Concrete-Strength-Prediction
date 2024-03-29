@@ -2,6 +2,8 @@ This project predicts the comprehensive strength of concrete on basis of constit
 
 Data Source :- https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
 
+Work is done in jupyter-notebook.
+
 Problem Statement:-
 Concrete is the most important material in civil engineering.The concrete compressive strength is a highly nonlinear function of age and ingredients. These ingredients include cement, blast furnace slag, fly ash,
 water, superplasticizer, coarse aggregate, and fine aggregate.
